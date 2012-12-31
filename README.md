@@ -1,7 +1,7 @@
 A LED simulator
 ============
 
-![Screenshot: Launch image](https://github.com/cyndibaby905/LED_Simulator/master/LED_Simulator/ScreenShot.png)
+![Screenshot: Launch image](https://raw.github.com/cyndibaby905/LED_Simulator/master/ScreenShot.png)
 
 About
 -----
